@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1564781809441,1773,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-1,text,true,,430,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1771,0,421
+1564781809469,1745,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-2,text,true,,411,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1743,0,393
+1564781809764,1460,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-5,text,true,,425,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1460,0,126
+1564781810164,1061,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-9,text,true,,415,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1060,0,124
+1564781809867,1394,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-6,text,true,,430,182,20,20,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1394,0,128
+1564781809665,1603,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-4,text,true,,416,182,20,20,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1603,0,197
+1564781810064,1234,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-8,text,true,,426,182,20,20,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1234,0,125
+1564781809564,1749,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-3,text,true,,427,182,20,20,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1749,0,298
+1564781810260,1066,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-10,text,true,,424,182,20,20,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1065,0,122
+1564781809964,1368,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-7,text,true,,411,182,20,20,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1367,0,129
+1564781810460,940,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-12,text,true,,410,182,21,21,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,940,0,123
+1564781810363,1054,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-11,text,true,,429,182,21,21,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1054,0,122
+1564781811222,242,getOffer-integration,200,OK,TG_APIS_ 1-1,text,true,,328,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,242,0,0
+1564781811262,203,getOffer-integration,200,OK,TG_APIS_ 1-6,text,true,,327,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,203,0,0
+1564781811225,240,getOffer-integration,200,OK,TG_APIS_ 1-5,text,true,,328,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,240,0,0
+1564781811226,239,getOffer-integration,200,OK,TG_APIS_ 1-9,text,true,,328,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,239,0,0
+1564781811222,244,getOffer-integration,200,OK,TG_APIS_ 1-2,text,true,,328,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,243,0,0
+1564781811269,201,getOffer-integration,200,OK,TG_APIS_ 1-4,text,true,,327,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,195,0,0
+1564781810559,943,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-13,text,true,,426,182,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,942,0,123
+1564781811299,225,getOffer-integration,200,OK,TG_APIS_ 1-8,text,true,,327,179,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,224,0,0
+1564781811314,239,getOffer-integration,200,OK,TG_APIS_ 1-3,text,true,,327,179,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,221,0,0
+1564781811327,227,getOffer-integration,200,OK,TG_APIS_ 1-10,text,true,,328,179,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,226,0,0
+1564781811333,240,getOffer-integration,200,OK,TG_APIS_ 1-7,text,true,,328,179,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,240,0,0
+1564781811401,172,getOffer-integration,200,OK,TG_APIS_ 1-12,text,true,,327,179,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,171,0,0
+1564781811419,154,getOffer-integration,200,OK,TG_APIS_ 1-11,text,true,,327,179,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,154,0,0
+1564781810657,929,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-14,text,true,,415,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,929,0,135
+1564781811465,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-6,text,true,,277,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,136,0,0
+1564781810956,659,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-17,text,true,,410,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,659,0,132
+1564781811466,162,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-9,text,true,,277,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,162,0,0
+1564781811470,160,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-4,text,true,,277,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,160,0,0
+1564781811466,165,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-5,text,true,,277,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,165,0,0
+1564781811466,165,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-2,text,true,,277,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,165,0,0
+1564781811525,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-8,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,135,0,0
+1564781811502,159,getOffer-integration,200,OK,TG_APIS_ 1-13,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,158,0,0
+1564781811057,608,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-18,text,true,,426,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,608,0,137
+1564781810760,915,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-15,text,true,,424,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,915,0,126
+1564781811554,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-10,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,132,0,0
+1564781811554,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-3,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,132,0,0
+1564781811574,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-11,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,134,0,0
+1564781811574,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-12,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781811574,153,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-7,text,true,,277,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,153,0,0
+1564781811587,152,getOffer-integration,200,OK,TG_APIS_ 1-14,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,152,0,0
+1564781810859,886,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-16,text,true,,429,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,886,0,127
+1564781811465,284,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-1,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,284,0,151
+1564781811616,138,getOffer-integration,200,OK,TG_APIS_ 1-17,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,138,0,0
+1564781811661,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-13,text,true,,277,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,137,0,0
+1564781811666,145,getOffer-integration,200,OK,TG_APIS_ 1-18,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,145,0,0
+1564781811675,149,getOffer-integration,200,OK,TG_APIS_ 1-15,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,148,0,0
+1564781811156,675,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-19,text,true,,415,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,674,0,125
+1564781811739,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-14,text,true,,276,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,133,0,0
+1564781811746,138,getOffer-integration,200,OK,TG_APIS_ 1-16,text,true,,327,179,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,136,0,0
+1564781811754,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-17,text,true,,276,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,131,0,0
+1564781811812,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-18,text,true,,276,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,135,0,0
+1564781811824,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-15,text,true,,276,182,27,27,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,132,0,0
+1564781811259,706,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-20,text,true,,424,182,27,27,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,706,0,124
+1564781811831,144,getOffer-integration,200,OK,TG_APIS_ 1-19,text,true,,327,179,27,27,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,142,0,0
+1564781811885,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-16,text,true,,276,182,27,27,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,131,0,0
+1564781811965,140,getOffer-integration,200,OK,TG_APIS_ 1-20,text,true,,327,179,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,140,0,0
+1564781811975,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-19,text,true,,276,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,132,0,0
+1564781811357,769,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-21,text,true,,429,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,769,0,144
+1564781811455,695,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-22,text,true,,410,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,695,0,130
+1564781811628,565,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-9,text,true,,424,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,565,0,123
+1564781811632,561,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-5,text,true,,410,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,561,0,124
+1564781811631,584,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-4,text,true,,429,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,584,0,125
+1564781811632,587,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-2,text,true,,426,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,586,0,124
+1564781812106,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-20,text,true,,276,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,131,0,0
+1564781811624,620,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-6,text,true,,415,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,620,0,125
+1564781812127,140,getOffer-integration,200,OK,TG_APIS_ 1-21,text,true,,327,179,30,30,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,139,0,0
+1564781812151,145,getOffer-integration,200,OK,TG_APIS_ 1-22,text,true,,327,179,30,30,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,144,0,0
+1564781811709,598,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-11,text,true,,415,182,30,30,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,598,0,127
+1564781811550,771,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-23,text,true,,426,182,30,30,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,771,0,125
+1564781812194,155,getOffer-integration,200,OK,TG_APIS_ 1-9,text,true,,327,179,30,30,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,155,0,0
+1564781812194,155,getOffer-integration,200,OK,TG_APIS_ 1-5,text,true,,327,179,30,30,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,155,0,0
+1564781812216,146,getOffer-integration,200,OK,TG_APIS_ 1-4,text,true,,327,179,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,141,0,0
+1564781812219,144,getOffer-integration,200,OK,TG_APIS_ 1-2,text,true,,327,179,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,144,0,0
+1564781812245,143,getOffer-integration,200,OK,TG_APIS_ 1-6,text,true,,327,179,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,143,0,0
+1564781812267,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-21,text,true,,276,182,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,131,0,0
+1564781812296,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-22,text,true,,276,182,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,132,0,0
+1564781812308,145,getOffer-integration,200,OK,TG_APIS_ 1-11,text,true,,327,179,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,145,0,0
+1564781812322,150,getOffer-integration,200,OK,TG_APIS_ 1-23,text,true,,327,179,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,150,0,0
+1564781812350,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-9,text,true,,276,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,135,0,0
+1564781812350,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-5,text,true,,276,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,138,0,0
+1564781812363,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-4,text,true,,276,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,133,0,0
+1564781812364,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-2,text,true,,276,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,132,0,0
+1564781812389,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-6,text,true,,276,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,132,0,0
+1564781811661,901,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-8,text,true,,424,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,901,0,127
+1564781811873,708,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-14,text,true,,424,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,708,0,123
+1564781812454,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-11,text,true,,276,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781812473,140,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-23,text,true,,277,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,140,0,0
+1564781811687,928,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-10,text,true,,429,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,927,0,123
+1564781811709,908,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-12,text,true,,426,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,908,0,127
+1564781811948,698,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-18,text,true,,410,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,698,0,122
+1564781811687,969,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-3,text,true,,410,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,969,0,123
+1564781812017,658,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-16,text,true,,424,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,658,0,127
+1564781811955,726,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-27,text,true,,426,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,726,0,127
+1564781811849,833,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-26,text,true,,415,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,833,0,125
+1564781811957,735,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-15,text,true,,415,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,735,0,125
+1564781812563,143,getOffer-integration,200,OK,TG_APIS_ 1-8,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,143,0,0
+1564781812054,664,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-28,text,true,,429,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,664,0,123
+1564781812583,137,getOffer-integration,200,OK,TG_APIS_ 1-14,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,137,0,0
+1564781811799,927,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-13,text,true,,426,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,927,0,129
+1564781811750,998,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-1,text,true,,429,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,998,0,125
+1564781812153,602,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-29,text,true,,426,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,602,0,123
+1564781811651,1110,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-24,text,true,,415,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1110,0,127
+1564781812618,150,getOffer-integration,200,OK,TG_APIS_ 1-12,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,150,0,0
+1564781812615,153,getOffer-integration,200,OK,TG_APIS_ 1-10,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,153,0,0
+1564781812108,673,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-19,text,true,,410,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,673,0,124
+1564781812646,141,getOffer-integration,200,OK,TG_APIS_ 1-18,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,141,0,0
+1564781812656,137,getOffer-integration,200,OK,TG_APIS_ 1-3,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,134,0,0
+1564781811729,1064,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-7,text,true,,424,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1064,0,128
+1564781811753,1046,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-25,text,true,,410,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1045,0,122
+1564781812676,145,getOffer-integration,200,OK,TG_APIS_ 1-16,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,145,0,0
+1564781812683,155,getOffer-integration,200,OK,TG_APIS_ 1-26,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,155,0,0
+1564781812707,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-8,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,131,0,0
+1564781812682,156,getOffer-integration,200,OK,TG_APIS_ 1-27,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,156,0,0
+1564781812693,146,getOffer-integration,200,OK,TG_APIS_ 1-15,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,146,0,0
+1564781812721,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-14,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,129,0,0
+1564781811886,968,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-17,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,968,0,123
+1564781812718,142,getOffer-integration,200,OK,TG_APIS_ 1-28,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,142,0,0
+1564781812726,141,getOffer-integration,200,OK,TG_APIS_ 1-13,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,141,0,0
+1564781812749,139,getOffer-integration,200,OK,TG_APIS_ 1-1,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,139,0,0
+1564781812755,142,getOffer-integration,200,OK,TG_APIS_ 1-29,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,142,0,0
+1564781812762,138,getOffer-integration,200,OK,TG_APIS_ 1-24,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,138,0,0
+1564781812768,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-12,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,133,0,0
+1564781812768,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-10,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,133,0,0
+1564781812788,127,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-18,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,127,0,0
+1564781812793,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-3,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,132,0,0
+1564781812782,164,getOffer-integration,200,OK,TG_APIS_ 1-19,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,164,0,0
+1564781812821,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-16,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,134,0,0
+1564781812793,163,getOffer-integration,200,OK,TG_APIS_ 1-7,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,162,0,0
+1564781812799,157,getOffer-integration,200,OK,TG_APIS_ 1-25,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,156,0,0
+1564781812839,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-15,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,144,0,0
+1564781812839,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-27,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,144,0,0
+1564781812839,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-26,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,144,0,0
+1564781812860,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-28,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,138,0,0
+1564781812855,146,getOffer-integration,200,OK,TG_APIS_ 1-17,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,146,0,0
+1564781812867,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-13,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781812888,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-1,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,130,0,0
+1564781812898,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-29,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781812900,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-24,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,133,0,0
+1564781812399,671,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-21,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,671,0,132
+1564781812947,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-19,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781812956,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-7,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,138,0,0
+1564781812957,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-25,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,137,0,0
+1564781812429,690,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-22,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,690,0,129
+1564781813002,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-17,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,130,0,0
+1564781812238,920,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-20,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,920,0,124
+1564781812354,831,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-31,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,831,0,123
+1564781812522,663,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-6,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,663,0,125
+1564781812488,699,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-5,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,699,0,125
+1564781812553,634,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-33,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,634,0,122
+1564781813071,146,getOffer-integration,200,OK,TG_APIS_ 1-21,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,146,0,0
+1564781812486,732,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-9,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,732,0,127
+1564781812253,967,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-30,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,967,0,125
+1564781812455,777,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-32,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,777,0,123
+1564781812497,739,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-2,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,739,0,129
+1564781812592,667,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-11,text,true,,429,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,667,0,128
+1564781813120,149,getOffer-integration,200,OK,TG_APIS_ 1-22,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,149,0,0
+1564781812497,775,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-4,text,true,,410,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,775,0,129
+1564781813158,144,getOffer-integration,200,OK,TG_APIS_ 1-20,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,144,0,0
+1564781812649,668,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-34,text,true,,426,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,668,0,128
+1564781813185,149,getOffer-integration,200,OK,TG_APIS_ 1-31,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,149,0,0
+1564781813186,156,getOffer-integration,200,OK,TG_APIS_ 1-6,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,156,0,0
+1564781813187,157,getOffer-integration,200,OK,TG_APIS_ 1-33,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,157,0,0
+1564781813187,157,getOffer-integration,200,OK,TG_APIS_ 1-5,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,157,0,0
+1564781813218,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-21,text,true,,276,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781813218,152,getOffer-integration,200,OK,TG_APIS_ 1-9,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,152,0,0
+1564781813233,146,getOffer-integration,200,OK,TG_APIS_ 1-32,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,146,0,0
+1564781813237,146,getOffer-integration,200,OK,TG_APIS_ 1-2,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,146,0,0
+1564781813221,173,getOffer-integration,200,OK,TG_APIS_ 1-30,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,173,0,0
+1564781812748,649,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-35,text,true,,415,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,649,0,123
+1564781813270,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-22,text,true,,276,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,129,0,0
+1564781813260,148,getOffer-integration,200,OK,TG_APIS_ 1-11,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,148,0,0
+1564781813273,156,getOffer-integration,200,OK,TG_APIS_ 1-4,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,156,0,0
+1564781813303,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-20,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,136,0,0
+1564781813335,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-31,text,true,,276,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,134,0,0
+1564781813343,140,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-6,text,true,,276,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,140,0,0
+1564781813345,139,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-33,text,true,,276,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,139,0,0
+1564781813345,139,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-5,text,true,,276,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,139,0,0
+1564781813317,169,getOffer-integration,200,OK,TG_APIS_ 1-34,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,169,0,0
+1564781812851,637,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-36,text,true,,429,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,637,0,146
+1564781812901,603,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-10,text,true,,415,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,603,0,135
+1564781813371,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-9,text,true,,276,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,134,0,0
+1564781813379,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-32,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,130,0,0
+1564781813383,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-2,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,129,0,0
+1564781813394,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-30,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,132,0,0
+1564781813397,139,getOffer-integration,200,OK,TG_APIS_ 1-35,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,139,0,0
+1564781813409,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-11,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,130,0,0
+1564781813429,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-4,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,137,0,0
+1564781812850,722,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-14,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,722,0,147
+1564781812956,637,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-16,text,true,,426,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,637,0,128
+1564781812983,612,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-27,text,true,,424,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,612,0,131
+1564781812839,761,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-8,text,true,,424,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,761,0,131
+1564781812983,643,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-15,text,true,,415,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,643,0,136
+1564781813487,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-34,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,144,0,0
+1564781813002,637,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-13,text,true,,426,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,637,0,122
+1564781812983,656,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-26,text,true,,429,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,656,0,131
+1564781812946,695,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-37,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,695,0,129
+1564781812998,643,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-28,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,643,0,126
+1564781813505,141,getOffer-integration,200,OK,TG_APIS_ 1-10,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,141,0,0
+1564781813488,159,getOffer-integration,200,OK,TG_APIS_ 1-36,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,159,0,0
+1564781812614,1049,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-23,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1049,0,126
+1564781813537,140,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-35,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,140,0,0
+1564781813034,672,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-29,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,672,0,129
+1564781813573,140,getOffer-integration,200,OK,TG_APIS_ 1-14,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,140,0,0
+1564781813082,642,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-19,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,641,0,128
+1564781812925,813,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-3,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,813,0,130
+1564781813593,155,getOffer-integration,200,OK,TG_APIS_ 1-16,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,155,0,0
+1564781813595,163,getOffer-integration,200,OK,TG_APIS_ 1-27,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,163,0,0
+1564781812901,858,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-12,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,858,0,135
+1564781813600,159,getOffer-integration,200,OK,TG_APIS_ 1-8,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,159,0,0
+1564781813627,150,getOffer-integration,200,OK,TG_APIS_ 1-15,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,150,0,0
+1564781813647,145,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-10,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,145,0,0
+1564781813647,145,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-36,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,145,0,0
+1564781813640,154,getOffer-integration,200,OK,TG_APIS_ 1-26,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,153,0,0
+1564781813640,165,getOffer-integration,200,OK,TG_APIS_ 1-13,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,165,0,0
+1564781813642,163,getOffer-integration,200,OK,TG_APIS_ 1-28,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,163,0,0
+1564781813641,165,getOffer-integration,200,OK,TG_APIS_ 1-37,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,165,0,0
+1564781813664,152,getOffer-integration,200,OK,TG_APIS_ 1-23,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,152,0,0
+1564781813714,208,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-14,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,208,0,0
+1564781813706,216,getOffer-integration,200,OK,TG_APIS_ 1-29,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,216,0,0
+1564781813738,235,getOffer-integration,200,OK,TG_APIS_ 1-3,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,235,0,0
+1564781813725,248,getOffer-integration,200,OK,TG_APIS_ 1-19,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,248,0,0
+1564781813748,225,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-16,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,225,0,0
+1564781813759,219,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-27,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,219,0,0
+1564781813759,219,getOffer-integration,200,OK,TG_APIS_ 1-12,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,219,0,0
+1564781813778,200,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-15,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,200,0,0
+1564781813095,883,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-25,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,883,0,125
+1564781813759,219,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-8,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,219,0,0
+1564781813146,833,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-39,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,833,0,132
+1564781813248,734,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-40,text,true,,426,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,734,0,125
+1564781813806,198,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-28,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,198,0,0
+1564781813806,198,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-37,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,198,0,0
+1564781813806,198,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-13,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,198,0,0
+1564781813795,209,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-26,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,209,0,0
+1564781813816,224,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-23,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,224,0,0
+1564781813353,687,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-21,text,true,,424,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,687,0,130
+1564781813048,992,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-38,text,true,,410,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,992,0,123
+1564781813133,928,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-17,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,928,0,128
+1564781813400,661,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-22,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,661,0,125
+1564781813095,976,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-7,text,true,,415,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,976,0,126
+1564781813345,759,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-41,text,true,,415,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,758,0,131
+1564781813470,651,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-31,text,true,,415,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,651,0,132
+1564781813484,643,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-33,text,true,,424,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,643,0,139
+1564781813923,207,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-29,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,207,0,0
+1564781812915,1224,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-18,text,true,,424,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1224,0,131
+1564781813440,707,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-20,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,707,0,138
+1564781813446,716,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-42,text,true,,426,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,716,0,132
+1564781813034,1129,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-24,text,true,,429,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1129,0,129
+1564781813019,1192,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-1,text,true,,415,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1192,0,136
+1564781813643,599,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-44,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,599,0,136
+1564781813527,731,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-30,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,730,0,133
+1564781813547,750,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-43,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,750,0,145
+1564781813509,792,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-32,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,792,0,137
+1564781813632,669,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-34,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,669,0,139
+1564781813973,328,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-3,text,true,,278,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,328,0,0
+1564781813973,330,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-19,text,true,,278,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,330,0,0
+1564781813678,634,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-35,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,634,0,137
+1564781813978,349,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-12,text,true,,278,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,349,0,0
+1564781813979,514,getOffer-integration,200,OK,TG_APIS_ 1-39,text,true,,328,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,514,0,0
+1564781813940,694,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-47,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,693,0,190
+1564781813978,690,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-27,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,690,0,203
+1564781813983,694,getOffer-integration,200,OK,TG_APIS_ 1-40,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,694,0,0
+1564781813978,699,getOffer-integration,200,OK,TG_APIS_ 1-25,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,699,0,0
+1564781814005,672,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-37,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,672,0,176
+1564781814005,673,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-28,text,true,,410,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,673,0,176
+1564781814040,646,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-23,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,646,0,150
+1564781814041,648,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-48,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,648,0,149
+1564781814062,629,getOffer-integration,200,OK,TG_APIS_ 1-17,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,629,0,0
+1564781813745,951,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-45,text,true,,410,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,951,0,232
+1564781814005,693,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-26,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,693,0,176
+1564781813844,856,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-46,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,856,0,257
+1564781813793,923,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-36,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,923,0,210
+1564781814062,661,getOffer-integration,200,OK,TG_APIS_ 1-22,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,656,0,0
+1564781814040,683,getOffer-integration,200,OK,TG_APIS_ 1-38,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,678,0,0
+1564781814040,685,getOffer-integration,200,OK,TG_APIS_ 1-21,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,684,0,0
+1564781814071,698,getOffer-integration,200,OK,TG_APIS_ 1-7,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,698,0,0
+1564781814128,655,getOffer-integration,200,OK,TG_APIS_ 1-33,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,651,0,0
+1564781814104,679,getOffer-integration,200,OK,TG_APIS_ 1-41,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,679,0,0
+1564781814121,728,getOffer-integration,200,OK,TG_APIS_ 1-31,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,728,0,0
+1564781814139,754,getOffer-integration,200,OK,TG_APIS_ 1-18,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,747,0,0
+1564781814162,732,getOffer-integration,200,OK,TG_APIS_ 1-42,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,732,0,0
+1564781814148,746,getOffer-integration,200,OK,TG_APIS_ 1-20,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,746,0,0
+1564781814212,687,getOffer-integration,200,OK,TG_APIS_ 1-1,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,687,0,0
+1564781814164,736,getOffer-integration,200,OK,TG_APIS_ 1-24,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,735,0,0
+1564781814242,658,getOffer-integration,200,OK,TG_APIS_ 1-44,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,658,0,0
+1564781814258,645,getOffer-integration,200,OK,TG_APIS_ 1-30,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,643,0,0
+1564781814297,608,getOffer-integration,200,OK,TG_APIS_ 1-43,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,608,0,0
+1564781814725,198,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-21,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,197,0,0
+1564781814301,630,getOffer-integration,200,OK,TG_APIS_ 1-34,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,629,0,0
+1564781814301,630,getOffer-integration,200,OK,TG_APIS_ 1-32,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,630,0,0
+1564781814493,450,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-39,text,true,,278,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,450,0,0
+1564781814677,281,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-25,text,true,,278,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,281,0,0
+1564781814669,290,getOffer-integration,200,OK,TG_APIS_ 1-27,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,290,0,0
+1564781814312,647,getOffer-integration,200,OK,TG_APIS_ 1-35,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,647,0,0
+1564781814635,325,getOffer-integration,200,OK,TG_APIS_ 1-47,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,325,0,0
+1564781814686,287,getOffer-integration,200,OK,TG_APIS_ 1-23,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,287,0,0
+1564781814678,295,getOffer-integration,200,OK,TG_APIS_ 1-37,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,295,0,0
+1564781814691,283,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-17,text,true,,278,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,283,0,0
+1564781814677,300,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-40,text,true,,278,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,300,0,0
+1564781814678,300,getOffer-integration,200,OK,TG_APIS_ 1-28,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,298,0,0
+1564781814724,254,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-38,text,true,,278,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,254,0,0
+1564781814724,256,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-22,text,true,,278,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,256,0,0
+1564781814784,206,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-41,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,206,0,0
+1564781814850,141,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-31,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,141,0,0
+1564781814717,274,getOffer-integration,200,OK,TG_APIS_ 1-36,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,274,0,0
+1564781814698,294,getOffer-integration,200,OK,TG_APIS_ 1-26,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,294,0,0
+1564781814769,223,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-7,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,223,0,0
+1564781814689,304,getOffer-integration,200,OK,TG_APIS_ 1-48,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,304,0,0
+1564781814783,211,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-33,text,true,,277,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,211,0,0
+1564781814700,295,getOffer-integration,200,OK,TG_APIS_ 1-46,text,true,,328,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,295,0,0
+1564781814697,301,getOffer-integration,200,OK,TG_APIS_ 1-45,text,true,,328,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,296,0,0
+1564781814894,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-18,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,134,0,0
+1564781814894,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-42,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781814895,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-20,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,133,0,0
+1564781814903,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-30,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,133,0,0
+1564781814900,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-24,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,138,0,0
+1564781814901,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-44,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,137,0,0
+1564781814905,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-43,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781814900,139,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-1,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,139,0,0
+1564781814931,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-34,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,134,0,0
+1564781814931,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-32,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,134,0,0
+1564781814243,846,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-50,text,true,,415,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,846,0,140
+1564781814960,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-35,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,131,0,0
+1564781814960,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-47,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,132,0,0
+1564781814959,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-27,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,133,0,0
+1564781814537,567,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-53,text,true,,410,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,567,0,125
+1564781814141,965,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-49,text,true,,426,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,965,0,123
+1564781814973,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-23,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,137,0,0
+1564781814973,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-37,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,137,0,0
+1564781814978,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-28,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,137,0,0
+1564781814994,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-48,text,true,,276,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,137,0,0
+1564781814995,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-46,text,true,,276,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,137,0,0
+1564781814992,141,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-26,text,true,,277,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,141,0,0
+1564781814992,141,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-36,text,true,,277,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,141,0,0
+1564781814999,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-45,text,true,,277,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781814131,1011,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-29,text,true,,410,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1010,0,125
+1564781814446,723,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-52,text,true,,429,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,723,0,128
+1564781814341,864,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-51,text,true,,424,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,864,0,124
+1564781814643,562,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-54,text,true,,426,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,562,0,129
+1564781815090,146,getOffer-integration,200,OK,TG_APIS_ 1-50,text,true,,327,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,146,0,0
+1564781815104,149,getOffer-integration,200,OK,TG_APIS_ 1-53,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,144,0,0
+1564781815106,147,getOffer-integration,200,OK,TG_APIS_ 1-49,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,147,0,0
+1564781815170,140,getOffer-integration,200,OK,TG_APIS_ 1-52,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,140,0,0
+1564781815142,168,getOffer-integration,200,OK,TG_APIS_ 1-29,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,168,0,0
+1564781815206,150,getOffer-integration,200,OK,TG_APIS_ 1-51,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,142,0,0
+1564781815206,151,getOffer-integration,200,OK,TG_APIS_ 1-54,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,151,0,0
+1564781815236,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-50,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781815254,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-49,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,132,0,0
+1564781815253,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-53,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781815310,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-52,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,138,0,0
+1564781815311,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-29,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,137,0,0
+1564781814741,728,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-55,text,true,,415,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,728,0,125
+1564781815358,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-54,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781815356,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-51,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,136,0,0
+1564781814839,716,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-56,text,true,,424,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,716,0,125
+1564781814979,612,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-40,text,true,,415,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,612,0,130
+1564781814947,645,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-57,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,645,0,128
+1564781814979,619,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-38,text,true,,424,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,619,0,129
+1564781814959,642,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-25,text,true,,426,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,642,0,130
+1564781815469,143,getOffer-integration,200,OK,TG_APIS_ 1-55,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,143,0,0
+1564781814992,637,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-31,text,true,,410,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,637,0,131
+1564781814995,642,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-33,text,true,,426,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,642,0,128
+1564781814947,695,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-39,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,695,0,128
+1564781815555,144,getOffer-integration,200,OK,TG_APIS_ 1-56,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,144,0,0
+1564781815593,149,getOffer-integration,200,OK,TG_APIS_ 1-57,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,149,0,0
+1564781815592,155,getOffer-integration,200,OK,TG_APIS_ 1-40,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,154,0,0
+1564781815613,142,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-55,text,true,,277,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,142,0,0
+1564781815599,162,getOffer-integration,200,OK,TG_APIS_ 1-38,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,162,0,0
+1564781815602,159,getOffer-integration,200,OK,TG_APIS_ 1-25,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,159,0,0
+1564781815630,155,getOffer-integration,200,OK,TG_APIS_ 1-31,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,155,0,0
+1564781815637,154,getOffer-integration,200,OK,TG_APIS_ 1-33,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,154,0,0
+1564781815642,149,getOffer-integration,200,OK,TG_APIS_ 1-39,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,149,0,0
+1564781815699,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-56,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,133,0,0
+1564781815742,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-57,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,138,0,0
+1564781815747,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-40,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781815761,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-38,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,131,0,0
+1564781815762,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-25,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,132,0,0
+1564781815785,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-31,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781815791,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-33,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,133,0,0
+1564781815792,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-39,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,132,0,0
+1564781815040,965,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-43,text,true,,415,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,964,0,127
+1564781815039,990,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-44,text,true,,426,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,990,0,127
+1564781815066,964,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-34,text,true,,424,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,964,0,125
+1564781815029,1009,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-42,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1009,0,124
+1564781815038,1026,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-58,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1026,0,128
+1564781815039,1025,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-24,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1025,0,127
+1564781815092,973,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-35,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,973,0,129
+1564781815336,744,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-61,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,744,0,124
+1564781815111,976,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-37,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,976,0,128
+1564781815066,1034,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-32,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1034,0,125
+1564781815132,972,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-48,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,972,0,128
+1564781815133,997,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-46,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,997,0,127
+1564781815092,1039,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-47,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1039,0,129
+1564781815237,906,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-60,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,906,0,124
+1564781815372,771,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-50,text,true,,410,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,771,0,125
+1564781816005,145,getOffer-integration,200,OK,TG_APIS_ 1-43,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,145,0,0
+1564781814991,1163,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-41,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1163,0,132
+1564781815388,768,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-53,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,768,0,129
+1564781815438,740,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-62,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,740,0,127
+1564781815133,1045,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-45,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1045,0,127
+1564781815037,1142,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-30,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1142,0,129
+1564781815388,796,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-49,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,796,0,129
+1564781816030,163,getOffer-integration,200,OK,TG_APIS_ 1-34,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,163,0,0
+1564781815493,702,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-51,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,702,0,125
+1564781815133,1068,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-36,text,true,,410,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1068,0,127
+1564781816030,182,getOffer-integration,200,OK,TG_APIS_ 1-44,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,182,0,0
+1564781815448,773,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-52,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,773,0,124
+1564781815140,1083,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-59,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1083,0,129
+1564781816193,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-34,text,true,,276,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,134,0,0
+1564781816150,177,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-43,text,true,,277,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,177,0,0
+1564781816039,290,getOffer-integration,200,OK,TG_APIS_ 1-42,text,true,,328,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,290,0,0
+1564781816064,278,getOffer-integration,200,OK,TG_APIS_ 1-24,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,278,0,0
+1564781816104,238,getOffer-integration,200,OK,TG_APIS_ 1-48,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,238,0,0
+1564781816213,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-44,text,true,,277,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,136,0,0
+1564781815539,815,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-63,text,true,,415,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,815,0,124
+1564781815493,894,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-54,text,true,,410,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,894,0,125
+1564781815756,653,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-55,text,true,,410,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,653,0,124
+1564781816064,355,getOffer-integration,200,OK,TG_APIS_ 1-58,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,355,0,0
+1564781816065,355,getOffer-integration,200,OK,TG_APIS_ 1-35,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,355,0,0
+1564781816101,319,getOffer-integration,200,OK,TG_APIS_ 1-32,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,319,0,0
+1564781816088,332,getOffer-integration,200,OK,TG_APIS_ 1-37,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,332,0,0
+1564781816081,340,getOffer-integration,200,OK,TG_APIS_ 1-61,text,true,,328,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,340,0,0
+1564781816154,302,getOffer-integration,200,OK,TG_APIS_ 1-41,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,302,0,0
+1564781816131,325,getOffer-integration,200,OK,TG_APIS_ 1-46,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,325,0,0
+1564781816144,313,getOffer-integration,200,OK,TG_APIS_ 1-60,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,313,0,0
+1564781816156,301,getOffer-integration,200,OK,TG_APIS_ 1-53,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,301,0,0
+1564781816178,282,getOffer-integration,200,OK,TG_APIS_ 1-62,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,282,0,0
+1564781816196,265,getOffer-integration,200,OK,TG_APIS_ 1-51,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,265,0,0
+1564781816144,318,getOffer-integration,200,OK,TG_APIS_ 1-50,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,317,0,0
+1564781816184,294,getOffer-integration,200,OK,TG_APIS_ 1-49,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,275,0,0
+1564781816180,301,getOffer-integration,200,OK,TG_APIS_ 1-30,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,300,0,0
+1564781816179,302,getOffer-integration,200,OK,TG_APIS_ 1-45,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,302,0,0
+1564781816131,350,getOffer-integration,200,OK,TG_APIS_ 1-47,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,350,0,0
+1564781816202,280,getOffer-integration,200,OK,TG_APIS_ 1-36,text,true,,328,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,280,0,0
+1564781816221,265,getOffer-integration,200,OK,TG_APIS_ 1-52,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,265,0,0
+1564781816224,263,getOffer-integration,200,OK,TG_APIS_ 1-59,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,262,0,0
+1564781815884,610,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-40,text,true,,429,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,610,0,122
+1564781815836,658,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-66,text,true,,415,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,658,0,133
+1564781816330,165,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-42,text,true,,276,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,165,0,0
+1564781815882,614,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-57,text,true,,424,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,614,0,124
+1564781816342,161,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-24,text,true,,276,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,161,0,0
+1564781815636,867,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-64,text,true,,424,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,867,0,134
+1564781815893,611,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-38,text,true,,410,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,611,0,125
+1564781816342,162,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-48,text,true,,276,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,162,0,0
+1564781815925,580,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-39,text,true,,426,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,580,0,124
+1564781816354,151,getOffer-integration,200,OK,TG_APIS_ 1-63,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,151,0,0
+1564781815935,587,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-67,text,true,,415,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,587,0,122
+1564781816387,143,getOffer-integration,200,OK,TG_APIS_ 1-54,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,141,0,0
+1564781815833,710,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-56,text,true,,426,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,710,0,126
+1564781816409,176,getOffer-integration,200,OK,TG_APIS_ 1-55,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,176,0,0
+1564781816420,166,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-58,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,166,0,0
+1564781816421,166,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-61,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,166,0,0
+1564781816420,167,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-32,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,167,0,0
+1564781816420,167,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-37,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,167,0,0
+1564781816420,167,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-35,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,167,0,0
+1564781816457,185,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-46,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,185,0,0
+1564781816457,186,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-41,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,186,0,0
+1564781816462,181,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-51,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,181,0,0
+1564781816458,186,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-53,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,186,0,0
+1564781816460,192,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-62,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,192,0,0
+1564781816462,190,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-50,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,190,0,0
+1564781816457,195,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-60,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,195,0,0
+1564781816487,166,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-59,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,166,0,0
+1564781816481,175,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-30,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,175,0,0
+1564781816482,174,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-47,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,174,0,0
+1564781816482,174,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-36,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,174,0,0
+1564781816506,156,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-63,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,156,0,0
+1564781815740,922,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-65,text,true,,429,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,922,0,123
+1564781816487,175,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-52,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,175,0,0
+1564781816481,182,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-45,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,182,0,0
+1564781816479,184,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-49,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,184,0,0
+1564781816495,176,getOffer-integration,200,OK,TG_APIS_ 1-66,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,176,0,0
+1564781816531,140,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-54,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,140,0,0
+1564781816497,176,getOffer-integration,200,OK,TG_APIS_ 1-57,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,166,0,0
+1564781816504,169,getOffer-integration,200,OK,TG_APIS_ 1-38,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,169,0,0
+1564781816504,169,getOffer-integration,200,OK,TG_APIS_ 1-64,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,169,0,0
+1564781816505,177,getOffer-integration,200,OK,TG_APIS_ 1-39,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,176,0,0
+1564781816522,160,getOffer-integration,200,OK,TG_APIS_ 1-67,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,159,0,0
+1564781816494,188,getOffer-integration,200,OK,TG_APIS_ 1-40,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,188,0,0
+1564781816544,149,getOffer-integration,200,OK,TG_APIS_ 1-56,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,148,0,0
+1564781816037,682,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-68,text,true,,424,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,682,0,127
+1564781816586,139,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-55,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,139,0,0
+1564781816235,561,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-70,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,561,0,123
+1564781816671,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-66,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,131,0,0
+1564781816674,128,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-38,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,128,0,0
+1564781816674,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-64,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,130,0,0
+1564781816673,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-57,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,131,0,0
+1564781816663,144,getOffer-integration,200,OK,TG_APIS_ 1-65,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,142,0,0
+1564781816682,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-39,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781816682,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-40,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,134,0,0
+1564781816682,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-67,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,134,0,0
+1564781816693,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-56,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,129,0,0
+1564781816135,708,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-69,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,708,0,133
+1564781816720,139,getOffer-integration,200,OK,TG_APIS_ 1-68,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,137,0,0
+1564781816797,140,getOffer-integration,200,OK,TG_APIS_ 1-70,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,138,0,0
+1564781816807,141,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-65,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,141,0,0
+1564781816843,157,getOffer-integration,200,OK,TG_APIS_ 1-69,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,156,0,0
+1564781816859,168,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-68,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,168,0,0
+1564781816336,713,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-71,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,713,0,159
+1564781816937,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-70,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,138,0,0
+1564781817000,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-69,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,129,0,0
+1564781816334,799,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-43,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,798,0,160
+1564781816505,634,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-48,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,634,0,123
+1564781816349,790,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-44,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,790,0,154
+1564781816496,644,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-42,text,true,,410,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,644,0,128
+1564781816437,703,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-72,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,703,0,170
+1564781816535,606,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-73,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,606,0,127
+1564781817049,140,getOffer-integration,200,OK,TG_APIS_ 1-71,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,139,0,0
+1564781816586,650,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-58,text,true,,424,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,650,0,124
+1564781816624,622,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-74,text,true,,410,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,622,0,121
+1564781817133,157,getOffer-integration,200,OK,TG_APIS_ 1-43,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,156,0,0
+1564781817140,177,getOffer-integration,200,OK,TG_APIS_ 1-42,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,177,0,0
+1564781817141,177,getOffer-integration,200,OK,TG_APIS_ 1-72,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,159,0,0
+1564781817141,177,getOffer-integration,200,OK,TG_APIS_ 1-73,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,176,0,0
+1564781817189,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-71,text,true,,276,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,132,0,0
+1564781817140,182,getOffer-integration,200,OK,TG_APIS_ 1-44,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,182,0,0
+1564781817139,183,getOffer-integration,200,OK,TG_APIS_ 1-48,text,true,,327,179,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,183,0,0
+1564781817237,141,getOffer-integration,200,OK,TG_APIS_ 1-58,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,141,0,0
+1564781817246,140,getOffer-integration,200,OK,TG_APIS_ 1-74,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,140,0,0
+1564781817290,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-43,text,true,,276,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,133,0,0
+1564781817318,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-42,text,true,,277,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781817323,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-48,text,true,,276,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,132,0,0
+1564781817322,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-44,text,true,,276,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,133,0,0
+1564781817318,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-72,text,true,,277,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,138,0,0
+1564781817318,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-73,text,true,,277,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,138,0,0
+1564781817379,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-58,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,132,0,0
+1564781817387,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-74,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,131,0,0
+1564781816921,744,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-77,text,true,,424,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,744,0,123
+1564781816802,863,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-66,text,true,,415,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,863,0,122
+1564781816663,1003,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-63,text,true,,410,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1003,0,126
+1564781816822,896,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-56,text,true,,426,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,896,0,124
+1564781816643,1113,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-46,text,true,,426,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1113,0,128
+1564781816643,1114,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-51,text,true,,424,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1114,0,129
+1564781816645,1113,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-53,text,true,,429,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1113,0,128
+1564781816827,936,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-76,text,true,,415,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,936,0,124
+1564781816652,1116,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-50,text,true,,426,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1116,0,128
+1564781816587,1197,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-61,text,true,,429,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1197,0,124
+1564781816672,1120,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-54,text,true,,429,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1119,0,124
+1564781816663,1131,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-45,text,true,,415,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1131,0,127
+1564781816948,850,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-65,text,true,,429,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,850,0,127
+1564781817076,732,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-70,text,true,,415,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,732,0,124
+1564781816733,1092,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-75,text,true,,426,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1092,0,124
+1564781817665,161,getOffer-integration,200,OK,TG_APIS_ 1-77,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,161,0,0
+1564781816653,1173,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-59,text,true,,424,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1173,0,126
+1564781817666,160,getOffer-integration,200,OK,TG_APIS_ 1-66,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,160,0,0
+1564781817666,161,getOffer-integration,200,OK,TG_APIS_ 1-63,text,true,,327,179,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,161,0,0
+1564781817032,796,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-78,text,true,,426,182,41,41,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,796,0,123
+1564781816663,1167,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-49,text,true,,424,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1167,0,126
+1564781816643,1197,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-41,text,true,,415,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1197,0,129
+1564781817718,145,getOffer-integration,200,OK,TG_APIS_ 1-56,text,true,,327,179,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,145,0,0
+1564781816652,1211,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-60,text,true,,415,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,1211,0,127
+1564781816656,1224,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-47,text,true,,429,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1224,0,123
+1564781816804,1097,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-64,text,true,,424,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1097,0,123
+1564781816725,1180,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-55,text,true,,410,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1180,0,123
+1564781816652,1259,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-62,text,true,,410,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1259,0,127
+1564781816805,1106,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-57,text,true,,429,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1106,0,129
+1564781816663,1249,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-52,text,true,,426,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1249,0,126
+1564781817758,154,getOffer-integration,200,OK,TG_APIS_ 1-53,text,true,,327,179,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,154,0,0
+1564781817028,884,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-68,text,true,,410,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,884,0,123
+1564781816817,1105,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-67,text,true,,410,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,1105,0,122
+1564781817757,166,getOffer-integration,200,OK,TG_APIS_ 1-51,text,true,,327,179,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,155,0,0
+1564781817756,167,getOffer-integration,200,OK,TG_APIS_ 1-46,text,true,,327,179,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,167,0,0
+1564781817768,155,getOffer-integration,200,OK,TG_APIS_ 1-50,text,true,,327,179,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,155,0,0
+1564781817784,158,getOffer-integration,200,OK,TG_APIS_ 1-61,text,true,,327,179,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,158,0,0
+1564781817799,154,getOffer-integration,200,OK,TG_APIS_ 1-65,text,true,,327,179,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,154,0,0
+1564781817794,159,getOffer-integration,200,OK,TG_APIS_ 1-45,text,true,,327,179,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,159,0,0
+1564781817792,161,getOffer-integration,200,OK,TG_APIS_ 1-54,text,true,,327,179,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,161,0,0
+1564781817809,144,getOffer-integration,200,OK,TG_APIS_ 1-70,text,true,,327,179,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,144,0,0
+1564781817827,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-66,text,true,,276,182,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,131,0,0
+1564781817827,209,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-63,text,true,,276,182,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,209,0,0
+1564781817826,210,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-77,text,true,,276,182,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,210,0,0
+1564781817826,211,getOffer-integration,200,OK,TG_APIS_ 1-75,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,211,0,0
+1564781817826,212,getOffer-integration,200,OK,TG_APIS_ 1-59,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,211,0,0
+1564781817829,209,getOffer-integration,200,OK,TG_APIS_ 1-78,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,209,0,0
+1564781817831,208,getOffer-integration,200,OK,TG_APIS_ 1-49,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,208,0,0
+1564781817841,198,getOffer-integration,200,OK,TG_APIS_ 1-41,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,198,0,0
+1564781817863,177,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-56,text,true,,276,182,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,177,0,0
+1564781817864,176,getOffer-integration,200,OK,TG_APIS_ 1-60,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,176,0,0
+1564781817881,160,getOffer-integration,200,OK,TG_APIS_ 1-47,text,true,,327,179,44,44,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,160,0,0
+1564781817130,911,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-69,text,true,,429,182,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,911,0,129
+1564781817129,914,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-79,text,true,,424,182,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,914,0,130
+1564781817912,143,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-53,text,true,,277,182,43,43,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,143,0,0
+1564781817923,142,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-51,text,true,,277,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,142,0,0
+1564781817923,142,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-46,text,true,,277,182,42,42,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,142,0,0
+1564781817923,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-50,text,true,,277,182,40,40,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,144,0,0
+1564781817228,845,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-80,text,true,,410,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,845,0,127
+1564781817901,176,getOffer-integration,200,OK,TG_APIS_ 1-64,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,176,0,0
+1564781817905,172,getOffer-integration,200,OK,TG_APIS_ 1-55,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,172,0,0
+1564781817943,142,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-61,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,142,0,0
+1564781817912,174,getOffer-integration,200,OK,TG_APIS_ 1-68,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,174,0,0
+1564781817953,148,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-65,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,148,0,0
+1564781817953,148,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-54,text,true,,277,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,148,0,0
+1564781817912,190,getOffer-integration,200,OK,TG_APIS_ 1-62,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,190,0,0
+1564781817953,149,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-45,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,149,0,0
+1564781817922,181,getOffer-integration,200,OK,TG_APIS_ 1-67,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,181,0,0
+1564781817912,192,getOffer-integration,200,OK,TG_APIS_ 1-57,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,192,0,0
+1564781817912,192,getOffer-integration,200,OK,TG_APIS_ 1-52,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,192,0,0
+1564781817432,677,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-82,text,true,,424,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,677,0,128
+1564781817518,595,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-74,text,true,,415,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,595,0,124
+1564781817953,160,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-70,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,160,0,0
+1564781817511,611,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-58,text,true,,426,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,611,0,122
+1564781817530,598,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-83,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,598,0,124
+1564781817322,847,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-71,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,847,0,126
+1564781817332,838,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-81,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,838,0,137
+1564781817456,727,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-72,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,727,0,123
+1564781817456,736,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-73,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,736,0,123
+1564781818041,164,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-60,text,true,,277,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,164,0,0
+1564781818040,165,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-41,text,true,,277,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,165,0,0
+1564781818039,182,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-49,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,182,0,0
+1564781818041,180,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-47,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,180,0,0
+1564781818039,182,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-78,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,182,0,0
+1564781818038,184,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-59,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,184,0,0
+1564781818038,185,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-75,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,185,0,0
+1564781818043,184,getOffer-integration,200,OK,TG_APIS_ 1-79,text,true,,327,179,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,184,0,0
+1564781818077,158,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-64,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,158,0,0
+1564781818077,158,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-55,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,158,0,0
+1564781818087,150,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-68,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,150,0,0
+1564781818105,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-52,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,144,0,0
+1564781818102,147,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-62,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,147,0,0
+1564781818104,145,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-67,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,145,0,0
+1564781818104,146,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-57,text,true,,277,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,146,0,0
+1564781817764,519,getOffer-integration,200,OK,TG_APIS_ 1-76,text,true,,327,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,519,0,0
+1564781818109,204,getOffer-integration,200,OK,TG_APIS_ 1-82,text,true,,327,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,204,0,0
+1564781818113,200,getOffer-integration,200,OK,TG_APIS_ 1-74,text,true,,327,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,200,0,0
+1564781818122,191,getOffer-integration,200,OK,TG_APIS_ 1-58,text,true,,327,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,191,0,0
+1564781817621,693,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-84,text,true,,429,182,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,693,0,123
+1564781818042,272,getOffer-integration,200,OK,TG_APIS_ 1-69,text,true,,328,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,272,0,0
+1564781818074,240,getOffer-integration,200,OK,TG_APIS_ 1-80,text,true,,328,179,33,33,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,240,0,0
+1564781818170,172,getOffer-integration,200,OK,TG_APIS_ 1-81,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,172,0,0
+1564781818170,172,getOffer-integration,200,OK,TG_APIS_ 1-71,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,172,0,0
+1564781818183,161,getOffer-integration,200,OK,TG_APIS_ 1-72,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,161,0,0
+1564781818129,216,getOffer-integration,200,OK,TG_APIS_ 1-83,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,215,0,0
+1564781818192,153,getOffer-integration,200,OK,TG_APIS_ 1-73,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,153,0,0
+1564781818227,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-79,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,132,0,0
+1564781817731,655,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-85,text,true,,410,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,655,0,124
+1564781818283,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-76,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,131,0,0
+1564781818314,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-58,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,133,0,0
+1564781818313,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-82,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,136,0,0
+1564781818314,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-69,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,136,0,0
+1564781818313,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-74,text,true,,277,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,138,0,0
+1564781818314,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-80,text,true,,277,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,137,0,0
+1564781818314,139,getOffer-integration,200,OK,TG_APIS_ 1-84,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,139,0,0
+1564781818345,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-73,text,true,,277,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,135,0,0
+1564781818343,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-81,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,137,0,0
+1564781818344,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-72,text,true,,277,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,136,0,0
+1564781818343,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-71,text,true,,277,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,137,0,0
+1564781818345,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-83,text,true,,277,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,136,0,0
+1564781818387,141,getOffer-integration,200,OK,TG_APIS_ 1-85,text,true,,327,179,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,141,0,0
+1564781817958,576,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-66,text,true,,424,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,576,0,146
+1564781818454,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-84,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,132,0,0
+1564781817831,787,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-86,text,true,,426,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,787,0,204
+1564781818038,617,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-63,text,true,,410,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,617,0,133
+1564781818529,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-85,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,129,0,0
+1564781817932,737,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-87,text,true,,415,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,737,0,128
+1564781818535,139,getOffer-integration,200,OK,TG_APIS_ 1-66,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,139,0,0
+1564781818038,641,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-77,text,true,,426,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,641,0,133
+1564781818031,683,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-88,text,true,,429,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,683,0,125
+1564781818130,622,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-89,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,622,0,128
+1564781818618,138,getOffer-integration,200,OK,TG_APIS_ 1-86,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,138,0,0
+1564781818086,706,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-61,text,true,,415,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,706,0,123
+1564781818655,141,getOffer-integration,200,OK,TG_APIS_ 1-63,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,141,0,0
+1564781818674,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-66,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,130,0,0
+1564781818669,146,getOffer-integration,200,OK,TG_APIS_ 1-87,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,146,0,0
+1564781818679,142,getOffer-integration,200,OK,TG_APIS_ 1-77,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,142,0,0
+1564781818715,138,getOffer-integration,200,OK,TG_APIS_ 1-88,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,138,0,0
+1564781818757,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-86,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,133,0,0
+1564781818753,152,getOffer-integration,200,OK,TG_APIS_ 1-89,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,142,0,0
+1564781818792,136,getOffer-integration,200,OK,TG_APIS_ 1-61,text,true,,327,179,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,136,0,0
+1564781818797,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-63,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,131,0,0
+1564781818815,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-87,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,132,0,0
+1564781818821,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-77,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,130,0,0
+1564781818853,145,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-88,text,true,,276,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,145,0,0
+1564781818906,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-89,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,133,0,0
+1564781818114,937,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-70,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,937,0,123
+1564781818928,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-61,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,137,0,0
+1564781818430,651,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-92,text,true,,424,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,651,0,124
+1564781818456,665,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-74,text,true,,410,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,665,0,128
+1564781818414,707,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-76,text,true,,415,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,707,0,138
+1564781818206,922,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-60,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,922,0,122
+1564781818221,950,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-78,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,950,0,134
+1564781819051,139,getOffer-integration,200,OK,TG_APIS_ 1-70,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,139,0,0
+1564781818230,966,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-90,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,966,0,125
+1564781818102,1099,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-65,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1099,0,128
+1564781818456,747,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-82,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,747,0,130
+1564781818222,983,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-59,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,983,0,132
+1564781818223,983,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-75,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,983,0,131
+1564781818531,675,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-93,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,675,0,124
+1564781818330,884,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-91,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,884,0,129
+1564781819081,141,getOffer-integration,200,OK,TG_APIS_ 1-92,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,141,0,0
+1564781818456,766,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-69,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,766,0,129
+1564781818238,990,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-68,text,true,,415,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,990,0,136
+1564781818250,1029,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-67,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,1029,0,136
+1564781818250,1032,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-62,text,true,,424,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,1032,0,136
+1564781819121,161,getOffer-integration,200,OK,TG_APIS_ 1-76,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,161,0,0
+1564781819121,166,getOffer-integration,200,OK,TG_APIS_ 1-74,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,166,0,0
+1564781819129,164,getOffer-integration,200,OK,TG_APIS_ 1-60,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,164,0,0
+1564781818235,1059,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-64,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,1059,0,138
+1564781818360,934,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-79,text,true,,426,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,934,0,122
+1564781818587,711,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-84,text,true,,429,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,711,0,132
+1564781819171,138,getOffer-integration,200,OK,TG_APIS_ 1-78,text,true,,327,179,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,136,0,0
+1564781819191,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-70,text,true,,276,182,39,39,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,133,0,0
+1564781819197,140,getOffer-integration,200,OK,TG_APIS_ 1-90,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,140,0,0
+1564781819203,152,getOffer-integration,200,OK,TG_APIS_ 1-82,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,152,0,0
+1564781819222,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-92,text,true,,276,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,133,0,0
+1564781819206,159,getOffer-integration,200,OK,TG_APIS_ 1-75,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,147,0,0
+1564781819206,160,getOffer-integration,200,OK,TG_APIS_ 1-93,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,160,0,0
+1564781819201,165,getOffer-integration,200,OK,TG_APIS_ 1-65,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,165,0,0
+1564781819215,152,getOffer-integration,200,OK,TG_APIS_ 1-91,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,152,0,0
+1564781819206,161,getOffer-integration,200,OK,TG_APIS_ 1-59,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,161,0,0
+1564781819222,159,getOffer-integration,200,OK,TG_APIS_ 1-69,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,159,0,0
+1564781819228,153,getOffer-integration,200,OK,TG_APIS_ 1-68,text,true,,327,179,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,153,0,0
+1564781818481,911,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-81,text,true,,429,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,911,0,128
+1564781818481,911,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-73,text,true,,424,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,911,0,127
+1564781818481,921,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-83,text,true,,415,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,921,0,128
+1564781818456,946,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-80,text,true,,426,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,946,0,129
+1564781818481,937,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-72,text,true,,410,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,937,0,129
+1564781819283,140,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-76,text,true,,277,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,140,0,0
+1564781819287,141,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-74,text,true,,277,182,38,38,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,141,0,0
+1564781819294,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-60,text,true,,277,182,37,37,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,137,0,0
+1564781819280,162,getOffer-integration,200,OK,TG_APIS_ 1-67,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,160,0,0
+1564781819294,149,getOffer-integration,200,OK,TG_APIS_ 1-79,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,149,0,0
+1564781819282,161,getOffer-integration,200,OK,TG_APIS_ 1-62,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,161,0,0
+1564781819294,150,getOffer-integration,200,OK,TG_APIS_ 1-64,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,150,0,0
+1564781819299,145,getOffer-integration,200,OK,TG_APIS_ 1-84,text,true,,327,179,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,145,0,0
+1564781819310,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-78,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781818481,972,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-71,text,true,,426,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,972,0,126
+1564781819338,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-90,text,true,,276,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,130,0,0
+1564781819355,149,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-82,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,149,0,0
+1564781819366,145,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-93,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,145,0,0
+1564781819366,146,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-75,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,146,0,0
+1564781819367,146,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-91,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,146,0,0
+1564781819368,146,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-59,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,146,0,0
+1564781819367,147,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-65,text,true,,277,182,36,36,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,147,0,0
+1564781819381,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-68,text,true,,276,182,35,35,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,134,0,0
+1564781819381,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-69,text,true,,276,182,34,34,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781818659,866,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-85,text,true,,426,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,866,0,122
+1564781818948,581,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-87,text,true,,426,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,581,0,129
+1564781818891,640,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-86,text,true,,429,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,640,0,133
+1564781818817,715,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-96,text,true,,424,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,714,0,132
+1564781818628,920,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-94,text,true,,410,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,920,0,122
+1564781819392,173,getOffer-integration,200,OK,TG_APIS_ 1-81,text,true,,327,179,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,173,0,0
+1564781818729,837,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-95,text,true,,415,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,836,0,124
+1564781819443,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-67,text,true,,276,182,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,133,0,0
+1564781819392,184,getOffer-integration,200,OK,TG_APIS_ 1-73,text,true,,327,179,32,32,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,184,0,0
+1564781819444,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-62,text,true,,277,182,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,136,0,0
+1564781819444,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-64,text,true,,277,182,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,137,0,0
+1564781819443,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-79,text,true,,277,182,31,31,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,138,0,0
+1564781819445,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-84,text,true,,277,182,30,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,136,0,0
+1564781819402,180,getOffer-integration,200,OK,TG_APIS_ 1-80,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,180,0,0
+1564781818932,652,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-97,text,true,,410,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,652,0,125
+1564781819402,184,getOffer-integration,200,OK,TG_APIS_ 1-83,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,182,0,0
+1564781819453,151,getOffer-integration,200,OK,TG_APIS_ 1-71,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,151,0,0
+1564781819419,185,getOffer-integration,200,OK,TG_APIS_ 1-72,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,185,0,0
+1564781818951,718,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-77,text,true,,415,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,718,0,123
+1564781819532,146,getOffer-integration,200,OK,TG_APIS_ 1-96,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,146,0,0
+1564781819525,153,getOffer-integration,200,OK,TG_APIS_ 1-85,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,153,0,0
+1564781819529,149,getOffer-integration,200,OK,TG_APIS_ 1-87,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,149,0,0
+1564781819531,148,getOffer-integration,200,OK,TG_APIS_ 1-86,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,148,0,0
+1564781818999,692,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-88,text,true,,424,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,692,0,127
+1564781819548,143,getOffer-integration,200,OK,TG_APIS_ 1-94,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,142,0,0
+1564781819566,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-81,text,true,,276,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,132,0,0
+1564781819566,133,getOffer-integration,200,OK,TG_APIS_ 1-95,text,true,,327,179,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,133,0,0
+1564781819577,129,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-73,text,true,,276,182,29,29,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,129,0,0
+1564781819040,678,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-89,text,true,,410,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,678,0,123
+1564781819582,144,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-80,text,true,,276,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,144,0,0
+1564781819586,146,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-83,text,true,,276,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,146,0,0
+1564781819604,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-71,text,true,,276,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,136,0,0
+1564781819584,156,getOffer-integration,200,OK,TG_APIS_ 1-97,text,true,,327,179,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,156,0,0
+1564781819604,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-72,text,true,,276,182,28,28,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,136,0,0
+1564781819022,762,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-98,text,true,,429,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,762,0,122
+1564781819127,682,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-99,text,true,,426,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,682,0,123
+1564781819670,140,getOffer-integration,200,OK,TG_APIS_ 1-77,text,true,,327,179,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,140,0,0
+1564781819679,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-87,text,true,,277,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,136,0,0
+1564781819678,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-85,text,true,,277,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,137,0,0
+1564781819679,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-86,text,true,,277,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,136,0,0
+1564781819678,137,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-96,text,true,,277,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,137,0,0
+1564781819691,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-94,text,true,,277,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,134,0,0
+1564781819691,139,getOffer-integration,200,OK,TG_APIS_ 1-88,text,true,,327,179,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,138,0,0
+1564781819700,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-95,text,true,,276,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,134,0,0
+1564781819718,143,getOffer-integration,200,OK,TG_APIS_ 1-89,text,true,,327,179,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,143,0,0
+1564781819740,139,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-97,text,true,,277,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,139,0,0
+1564781819784,136,getOffer-integration,200,OK,TG_APIS_ 1-98,text,true,,327,179,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,136,0,0
+1564781819810,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-77,text,true,,276,182,26,26,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781819809,138,getOffer-integration,200,OK,TG_APIS_ 1-99,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,138,0,0
+1564781819830,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-88,text,true,,276,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,131,0,0
+1564781819862,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-89,text,true,,276,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,131,0,0
+1564781819226,782,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-100,text,true,,415,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,782,0,139
+1564781819356,665,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-92,text,true,,424,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,665,0,126
+1564781819423,630,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-76,text,true,,429,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,630,0,125
+1564781819921,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-98,text,true,,276,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,132,0,0
+1564781819469,596,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-90,text,true,,426,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,596,0,134
+1564781819947,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-99,text,true,,276,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,130,0,0
+1564781819514,624,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-91,text,true,,410,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,624,0,126
+1564781819446,693,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-78,text,true,,410,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,693,0,123
+1564781820013,136,getOffer-integration,200,OK,TG_APIS_ 1-100,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,135,0,0
+1564781820021,134,getOffer-integration,200,OK,TG_APIS_ 1-92,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,134,0,0
+1564781820053,139,getOffer-integration,200,OK,TG_APIS_ 1-76,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,139,0,0
+1564781819504,690,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-82,text,true,,415,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,690,0,125
+1564781819512,682,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-75,text,true,,429,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,682,0,128
+1564781819512,691,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-93,text,true,,424,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,689,0,128
+1564781820065,143,getOffer-integration,200,OK,TG_APIS_ 1-90,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,143,0,0
+1564781819582,645,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-84,text,true,,415,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,645,0,138
+1564781819581,647,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-79,text,true,,426,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,647,0,139
+1564781820149,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-100,text,true,,277,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781820155,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-92,text,true,,276,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,131,0,0
+1564781820139,153,getOffer-integration,200,OK,TG_APIS_ 1-78,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,145,0,0
+1564781820138,155,getOffer-integration,200,OK,TG_APIS_ 1-91,text,true,,327,179,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,155,0,0
+1564781820192,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-76,text,true,,276,182,25,25,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,131,0,0
+1564781820208,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-90,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,131,0,0
+1564781820194,182,getOffer-integration,200,OK,TG_APIS_ 1-82,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,182,0,0
+1564781820195,185,getOffer-integration,200,OK,TG_APIS_ 1-75,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,185,0,0
+1564781820203,178,getOffer-integration,200,OK,TG_APIS_ 1-93,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,178,0,0
+1564781820227,173,getOffer-integration,200,OK,TG_APIS_ 1-84,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,170,0,0
+1564781820228,172,getOffer-integration,200,OK,TG_APIS_ 1-79,text,true,,327,179,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,170,0,0
+1564781820293,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-78,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,132,0,0
+1564781820293,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-91,text,true,,276,182,24,24,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,133,0,0
+1564781820376,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-82,text,true,,276,182,23,23,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,131,0,0
+1564781820381,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-93,text,true,,276,182,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,135,0,0
+1564781820381,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-75,text,true,,276,182,22,22,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,135,0,0
+1564781819815,715,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-87,text,true,,426,182,21,21,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,715,0,125
+1564781820400,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-79,text,true,,276,182,21,21,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,133,0,0
+1564781820400,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-84,text,true,,276,182,21,21,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,133,0,0
+1564781819834,741,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-95,text,true,,426,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,741,0,121
+1564781819961,630,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-88,text,true,,424,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,630,0,122
+1564781819818,775,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-96,text,true,,429,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,775,0,123
+1564781819815,791,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-86,text,true,,424,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,791,0,126
+1564781819699,930,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-81,text,true,,424,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,930,0,123
+1564781819815,816,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-85,text,true,,415,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,816,0,124
+1564781819880,762,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-97,text,true,,415,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,762,0,123
+1564781819733,938,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-83,text,true,,410,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,938,0,124
+1564781819993,686,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-89,text,true,,429,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,686,0,123
+1564781820531,149,getOffer-integration,200,OK,TG_APIS_ 1-87,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,149,0,0
+1564781819726,972,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-80,text,true,,429,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,972,0,124
+1564781820053,656,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-98,text,true,,410,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,656,0,122
+1564781820576,139,getOffer-integration,200,OK,TG_APIS_ 1-95,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,139,0,0
+1564781820078,657,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-99,text,true,,426,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,657,0,123
+1564781820591,148,getOffer-integration,200,OK,TG_APIS_ 1-88,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,148,0,0
+1564781820594,146,getOffer-integration,200,OK,TG_APIS_ 1-96,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,146,0,0
+1564781820606,140,getOffer-integration,200,OK,TG_APIS_ 1-86,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,140,0,0
+1564781820632,136,getOffer-integration,200,OK,TG_APIS_ 1-85,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,134,0,0
+1564781820629,143,getOffer-integration,200,OK,TG_APIS_ 1-81,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,143,0,0
+1564781819826,946,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-94,text,true,,410,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,946,0,121
+1564781820643,139,getOffer-integration,200,OK,TG_APIS_ 1-97,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,139,0,0
+1564781820672,142,getOffer-integration,200,OK,TG_APIS_ 1-83,text,true,,327,179,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,142,0,0
+1564781820680,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-87,text,true,,277,182,19,19,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781820680,139,getOffer-integration,200,OK,TG_APIS_ 1-89,text,true,,327,179,18,18,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,139,0,0
+1564781820698,140,getOffer-integration,200,OK,TG_APIS_ 1-80,text,true,,327,179,18,18,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,140,0,0
+1564781820715,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-95,text,true,,276,182,18,18,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781820709,141,getOffer-integration,200,OK,TG_APIS_ 1-98,text,true,,327,179,18,18,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,141,0,0
+1564781820740,138,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-88,text,true,,277,182,18,18,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,138,0,0
+1564781820735,143,getOffer-integration,200,OK,TG_APIS_ 1-99,text,true,,327,179,18,18,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,143,0,0
+1564781820740,140,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-96,text,true,,277,182,17,17,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,140,0,0
+1564781820746,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-86,text,true,,277,182,17,17,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,136,0,0
+1564781820772,143,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-85,text,true,,277,182,16,16,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,143,0,0
+1564781820772,143,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-81,text,true,,277,182,16,16,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,143,0,0
+1564781820782,139,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-97,text,true,,277,182,14,14,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,139,0,0
+1564781820772,149,getOffer-integration,200,OK,TG_APIS_ 1-94,text,true,,327,179,14,14,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,149,0,0
+1564781820814,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-83,text,true,,277,182,14,14,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,135,0,0
+1564781820819,130,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-89,text,true,,276,182,13,13,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,130,0,0
+1564781820284,677,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-100,text,true,,415,182,12,12,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,677,0,135
+1564781820839,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-80,text,true,,276,182,12,12,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,133,0,0
+1564781820850,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-98,text,true,,276,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,131,0,0
+1564781820286,708,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-92,text,true,,424,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,708,0,133
+1564781820878,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-99,text,true,,276,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,134,0,0
+1564781820340,674,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-90,text,true,,429,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,674,0,122
+1564781820426,604,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-91,text,true,,410,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,604,0,128
+1564781820921,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-94,text,true,,276,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,133,0,0
+1564781820961,141,getOffer-integration,200,OK,TG_APIS_ 1-100,text,true,,327,179,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,141,0,0
+1564781820517,618,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-93,text,true,,426,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,618,0,125
+1564781820994,142,getOffer-integration,200,OK,TG_APIS_ 1-92,text,true,,327,179,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,142,0,0
+1564781821014,137,getOffer-integration,200,OK,TG_APIS_ 1-90,text,true,,327,179,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,135,0,0
+1564781821030,142,getOffer-integration,200,OK,TG_APIS_ 1-91,text,true,,327,179,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,141,0,0
+1564781821102,134,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-100,text,true,,277,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,134,0,0
+1564781821136,191,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-92,text,true,,277,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,191,0,0
+1564781821172,156,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-91,text,true,,277,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,156,0,0
+1564781821152,176,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-90,text,true,,277,182,11,11,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,176,0,0
+1564781821136,193,getOffer-integration,200,OK,TG_APIS_ 1-93,text,true,,327,179,10,10,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,193,0,0
+1564781821329,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-93,text,true,,276,182,8,8,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,132,0,0
+1564781820850,734,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-95,text,true,,415,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,734,0,124
+1564781820880,734,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-96,text,true,,424,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,734,0,122
+1564781820921,761,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-97,text,true,,429,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701183584/CEDULA,761,0,122
+1564781820981,714,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-98,text,true,,410,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0701606980/CEDULA,713,0,123
+1564781821584,142,getOffer-integration,200,OK,TG_APIS_ 1-95,text,true,,327,179,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,142,0,0
+1564781821614,142,getOffer-integration,200,OK,TG_APIS_ 1-96,text,true,,327,179,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,141,0,0
+1564781821054,706,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-94,text,true,,415,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702505561/CEDULA,706,0,123
+1564781821012,799,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-99,text,true,,426,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0702123662/CEDULA,799,0,124
+1564781821682,142,getOffer-integration,200,OK,TG_APIS_ 1-97,text,true,,327,179,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701183584/CEDULA,142,0,0
+1564781821695,144,getOffer-integration,200,OK,TG_APIS_ 1-98,text,true,,327,179,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0701606980/CEDULA,144,0,0
+1564781821726,133,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-95,text,true,,276,182,7,7,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,133,0,0
+1564781821756,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-96,text,true,,276,182,6,6,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,135,0,0
+1564781821761,140,getOffer-integration,200,OK,TG_APIS_ 1-94,text,true,,327,179,5,5,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702505561/CEDULA,140,0,0
+1564781821811,144,getOffer-integration,200,OK,TG_APIS_ 1-99,text,true,,327,179,5,5,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0702123662/CEDULA,144,0,0
+1564781821825,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-97,text,true,,276,182,5,5,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701183584/0001,132,0,0
+1564781821839,132,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-98,text,true,,276,182,4,4,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0701606980/0001,132,0,0
+1564781821902,135,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-94,text,true,,277,182,3,3,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702505561/0001,135,0,0
+1564781821956,131,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-99,text,true,,276,182,2,2,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0702123662/0001,131,0,0
+1564781821237,984,getCustomer-integration (TCS),200,OK,TG_APIS_ 1-100,text,true,,424,182,1,1,http://staging.apis.detic.ec/api/v1/credit/precise/customer-integration/0904299732/CEDULA,984,0,126
+1564781822221,140,getOffer-integration,200,OK,TG_APIS_ 1-100,text,true,,327,179,1,1,http://staging.apis.detic.ec/api/v1/credit/precise/offer-integration/0904299732/CEDULA,140,0,0
+1564781822361,136,getOfferLegacy_findOffer,200,OK,TG_APIS_ 1-100,text,true,,276,182,1,1,http://staging.apis.detic.ec/api/v1/credit/precise/offer-legacy/findOffer/0904299732/0001,136,0,0
